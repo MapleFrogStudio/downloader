@@ -1,3 +1,7 @@
+# Large CSV file to ignore
+*.exe
+*.sqlite3
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
